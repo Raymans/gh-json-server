@@ -1,5 +1,5 @@
 {
-  "api": [
+  "api": {
   "questions": [
     {
       "id": 1,
@@ -23,5 +23,5 @@
   "profile": {
     "name": "typicode"
   }
-  ]
+  }
 }
