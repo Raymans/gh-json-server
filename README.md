@@ -4,5 +4,5 @@ This is a config properties for json-server (https://github.com/typicode/json-se
 Start JSON Server with `--routes` option.
 
 ```bash
-json-server db.json --routes routes.json
+json-server db.json --routes routes.json --watch
 ```
